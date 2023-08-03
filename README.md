@@ -1,2 +1,2 @@
 # Predicting-The-conditions-of-the-Water-Holes
-With a decision-tree model, I predicted whether a water hole is functional, non-functional or functional but needs repair
+The data is available from the website of drivendata. It contains information about sixty thousand waterholes. These wells were installed by different organizations like the Government of Tanzania or NGOs The task was to predict the conditions of the water holes- i.e., functional, non-functional, or functional but needs repair. With a decision-tree model, I tried to predict it. Check the notebook for more. 
